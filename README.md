@@ -1,0 +1,10 @@
+**Introduction:**
+<p>Diffractive optical elements (DOEs) essentially function due to the interplay of the phenomena of diffraction and interference that often display vivid colors. Diffraction is a phenomenon that is observable due to the wave nature of light. The effects of diffraction are more noticeable when light interacts with an interface or an optical element whose features are close to that of the incident wavelength. Diffraction theory allows one to calculate how wavefronts change and how they travel after interaction with such an element.
+By manipulating the diffraction patterns through the precise design and fabrication of DOEs, we aim to explore this novel approach in optical engineering. This innovation holds the potential for unconventional imaging systems, allowing for enhanced spatial representation, extended field of view, and depth of focus. The DOEs can be added to existing imaging systems like a microscope or a digital camera as phase masks to enhance imaging capabilities.</p>
+<p>The project aims to design and implement custom DOEs tailored to specific applications like displays and projection systems to control light distribution, which also can be used as a Fourier plane filter.</p>
+
+**Objective:**
+<p>Our project aims to design custom DOEs capable of achieving specific intensity and phase profiles tailored to the requirements of various optical systems. This involves:</p>
+<p>1. Design: With the help of the IFTA algorithm, also known as the Gerchberg–Saxton algorithm, we aim to design multi-level DOE. This algorithm iteratively refines the phase profile of a DOE to match a desired target intensity distribution in the far field.</p>
+<p>2. Fabrication: Explore different fabrication techniques to create high-fidelity DOEs with desired surface profiles and material properties.</p>
+<p>3. Application: Implement the designed DOE to achieve unconventional viewing experiences and develop an imaging system with an extended field of view and depth of focus.</p>
