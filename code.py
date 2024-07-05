@@ -103,12 +103,7 @@ plt.imshow(np.abs(output_image), cmap="gray")
 plt.title("final image after optimization")
 plt.show()
 
-x =np.mean(np.abs(output_image))
-print(x)
-y = np.mean(input)
-print(y)
-z = (x-y)/y
-print("mean absolute difference relative to target: ",z)
+
 
 plt.plot(ratios)
 plt.xlabel('Iteration')
